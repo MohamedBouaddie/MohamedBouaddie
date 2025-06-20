@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Bouaddi</h1>
 <h3 align="center">Étudiant en ingénierie des données | Passionné par la gestion, le traitement et la valorisation des données .</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/MohamedBouaddie/MohamedBouaddi/refs/heads/main/1.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedbouaddie&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbouaddie" /> </p>
 
 - 🌱 I’m currently learning **Python , C, HTML/CSS, SQL**
