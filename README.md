@@ -1,6 +1,7 @@
+![logo](https://raw.githubusercontent.com/MohamedBouaddie/MohamedBouaddi/refs/heads/main/1.webp)
 <h1 align="center">Hi 👋, I'm Mohamed Bouaddi</h1>
 <h3 align="center">Étudiant en ingénierie des données | Passionné par la gestion, le traitement et la valorisation des données .</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/MohamedBouaddie/MohamedBouaddi/refs/heads/main/1.webp">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedbouaddie&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbouaddie" /> </p>
 
 - 🌱 I’m currently learning **Python , C, HTML/CSS, SQL**
