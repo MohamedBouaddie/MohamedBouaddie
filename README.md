@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/64/71/8e/64718edc12dc44208f4333438bd79df6.jpg)
+![logo](https://nexgenconsultancy.com/images/banner/solutions.png)
 <h1 align="center">Hi 👋, I'm Mohamed Bouaddi</h1>
 <h3 align="center">Étudiant en ingénierie des données | Passionné par la gestion, le traitement et la valorisation des données .</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
