@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/MohamedBouaddie/MohamedBouaddi/refs/heads/main/1.webp)
+![logo]([https://raw.githubusercontent.com/MohamedBouaddie/MohamedBouaddi/refs/heads/main/1.webp](https://camo.githubusercontent.com/9aa127e4ccc6105c73df89829816ebb18c2d629394b2ea8c8873a59a3af1cc71/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067))
 <h1 align="center">Hi 👋, I'm Mohamed Bouaddi</h1>
 <h3 align="center">Étudiant en ingénierie des données | Passionné par la gestion, le traitement et la valorisation des données .</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
