@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm **Mohamed Bouaddi**! I'm a Data Engineering student passionate about data management, processing and enhancement. Here you'll find my projects, learning journey, and the tools I work with.
+Hi, I'm **Mohamed **! I'm a Data Engineering student passionate about data management, processing and enhancement. Here you'll find my projects, learning journey, and the tools I work with.
 
 ## 🚀 About Me
 - **Data Engineering Student** — focused on building reliable data pipelines, databases, and scalable data solutions.  
@@ -19,7 +19,9 @@ Hi, I'm **Mohamed Bouaddi**! I'm a Data Engineering student passionate about dat
 - **Twitter:** [@mohamedbouaddie](https://twitter.com/mohamedbouaddie)  
 - **LinkedIn:** [Mohamed Bouaddi](https://linkedin.com/in/mohamedbouaddi)
 
-## 🛠️ Languages and Tools
+<h2 align="center">🛠️ Skills</h2>
+
+<p align="center">
 Python · C · HTML/CSS · SQL · Bash · Django · Flask · Git · JavaScript · Linux · MariaDB · Microsoft SQL Server · MySQL · Node.js · OpenCV · Pandas · PHP · PostgreSQL · Postman · Qt · Sass · Selenium · TensorFlow
 
 ---
