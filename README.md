@@ -21,7 +21,7 @@ Hi, I'm **Mohamed BOUADDI** ! I'm a Data Engineering student (EST) .
 
 ## 📫 How to reach me
 - **Email:** mohamedbouaddi313@gmail.com
-- **LinkedIn:** [Mohamed Bouaddi](https://linkedin.com/in/mohamedbouaddi)
+- **LinkedIn:** [Mohamed Bouaddi](https://www.linkedin.com/in/mohamed-bouaddi/)
 - **Instagram:** [Mohamed Bouaddi](https://www.instagram.com/_mohamed_bouaddi_/)
 
 
