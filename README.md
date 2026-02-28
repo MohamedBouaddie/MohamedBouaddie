@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm **Mohamed BOUADDI**! I'm a Data Engineering student (EST) .
+Hi, I'm **Mohamed BOUADDI** ! I'm a Data Engineering student (EST) .
 
 ## 🚀 About Me
 🎓  Student at **Higher School of Technology (EST)** — Major: **Data Engineering**  
