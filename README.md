@@ -3,10 +3,10 @@
 Hi, I'm **Mohamed BOUADDI **! I'm a Data Engineering student (EST) .
 
 ## 🚀 About Me
-🎓 Student at **Higher School of Technology (EST)** — Major: **Data Engineering**  
-📍 Interests: **Data Engineering**, **ETL & Data Warehousing**, **Big Data**, **Machine Learning**, **Data Visualization**  
-🚀 Goal: build reliable data pipelines, turn raw data into value, and deliver clear insights.
-- 🌱 I’m currently learning **Python, C, HTML/CSS, SQL**.
+🎓  Student at **Higher School of Technology (EST)** — Major: **Data Engineering**  
+📍   Interests: **Data Engineering**, **ETL & Data Warehousing**, **Big Data**, **Machine Learning**, **Data Visualization**  
+🚀  Goal: build reliable data pipelines, turn raw data into value, and deliver clear insights.
+🌱  I’m currently learning **Python, C, HTML/CSS, SQL**.
 
 
 
